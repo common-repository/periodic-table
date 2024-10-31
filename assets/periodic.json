@@ -1,0 +1,592 @@
+[
+  {
+    "atomic_number": 1,
+    "symbol": "H",
+    "element": "Hydrogen"
+  },
+  {
+    "atomic_number": 2,
+    "symbol": "He",
+    "element": "Helium"
+  },
+  {
+    "atomic_number": 3,
+    "symbol": "Li",
+    "element": "Lithium"
+  },
+  {
+    "atomic_number": 4,
+    "symbol": "Be",
+    "element": "Beryllium"
+  },
+  {
+    "atomic_number": 5,
+    "symbol": "B",
+    "element": "Boron"
+  },
+  {
+    "atomic_number": 6,
+    "symbol": "C",
+    "element": "Carbon"
+  },
+  {
+    "atomic_number": 7,
+    "symbol": "N",
+    "element": "Nitrogen"
+  },
+  {
+    "atomic_number": 8,
+    "symbol": "O",
+    "element": "Oxygen"
+  },
+  {
+    "atomic_number": 9,
+    "symbol": "F",
+    "element": "Fluorine"
+  },
+  {
+    "atomic_number": 10,
+    "symbol": "Ne",
+    "element": "Neon"
+  },
+  {
+    "atomic_number": 11,
+    "symbol": "Na",
+    "element": "Sodium"
+  },
+  {
+    "atomic_number": 12,
+    "symbol": "Mg",
+    "element": "Magnesium"
+  },
+  {
+    "atomic_number": 13,
+    "symbol": "Al",
+    "element": "Aluminum"
+  },
+  {
+    "atomic_number": 14,
+    "symbol": "Si",
+    "element": "Silicon"
+  },
+  {
+    "atomic_number": 15,
+    "symbol": "P",
+    "element": "Phosphorus"
+  },
+  {
+    "atomic_number": 16,
+    "symbol": "S",
+    "element": "Sulfur"
+  },
+  {
+    "atomic_number": 17,
+    "symbol": "Cl",
+    "element": "Chlorine"
+  },
+  {
+    "atomic_number": 18,
+    "symbol": "Ar",
+    "element": "Argon"
+  },
+  {
+    "atomic_number": 19,
+    "symbol": "K",
+    "element": "Potassium"
+  },
+  {
+    "atomic_number": 20,
+    "symbol": "Ca",
+    "element": "Calcium"
+  },
+  {
+    "atomic_number": 21,
+    "symbol": "Sc",
+    "element": "Scandium"
+  },
+  {
+    "atomic_number": 22,
+    "symbol": "Ti",
+    "element": "Titanium"
+  },
+  {
+    "atomic_number": 23,
+    "symbol": "V",
+    "element": "Vanadium"
+  },
+  {
+    "atomic_number": 24,
+    "symbol": "Cr",
+    "element": "Chromium"
+  },
+  {
+    "atomic_number": 25,
+    "symbol": "Mn",
+    "element": "Manganese"
+  },
+  {
+    "atomic_number": 26,
+    "symbol": "Fe",
+    "element": "Iron"
+  },
+  {
+    "atomic_number": 27,
+    "symbol": "Co",
+    "element": "Cobalt"
+  },
+  {
+    "atomic_number": 28,
+    "symbol": "Ni",
+    "element": "Nickel"
+  },
+  {
+    "atomic_number": 29,
+    "symbol": "Cu",
+    "element": "Copper"
+  },
+  {
+    "atomic_number": 30,
+    "symbol": "Zn",
+    "element": "Zinc"
+  },
+  {
+    "atomic_number": 31,
+    "symbol": "Ga",
+    "element": "Gallium"
+  },
+  {
+    "atomic_number": 32,
+    "symbol": "Ge",
+    "element": "Germanium"
+  },
+  {
+    "atomic_number": 33,
+    "symbol": "As",
+    "element": "Arsenic"
+  },
+  {
+    "atomic_number": 34,
+    "symbol": "Se",
+    "element": "Selenium"
+  },
+  {
+    "atomic_number": 35,
+    "symbol": "Br",
+    "element": "Bromine"
+  },
+  {
+    "atomic_number": 36,
+    "symbol": "Kr",
+    "element": "Krypton"
+  },
+  {
+    "atomic_number": 37,
+    "symbol": "Rb",
+    "element": "Rubidium"
+  },
+  {
+    "atomic_number": 38,
+    "symbol": "Sr",
+    "element": "Strontium"
+  },
+  {
+    "atomic_number": 39,
+    "symbol": "Y",
+    "element": "Yttrium"
+  },
+  {
+    "atomic_number": 40,
+    "symbol": "Zr",
+    "element": "Zirconium"
+  },
+  {
+    "atomic_number": 41,
+    "symbol": "Nb",
+    "element": "Niobium"
+  },
+  {
+    "atomic_number": 42,
+    "symbol": "Mo",
+    "element": "Molybdenum"
+  },
+  {
+    "atomic_number": 43,
+    "symbol": "Tc",
+    "element": "Technetium"
+  },
+  {
+    "atomic_number": 44,
+    "symbol": "Ru",
+    "element": "Ruthenium"
+  },
+  {
+    "atomic_number": 45,
+    "symbol": "Rh",
+    "element": "Rhodium"
+  },
+  {
+    "atomic_number": 46,
+    "symbol": "Pd",
+    "element": "Palladium"
+  },
+  {
+    "atomic_number": 47,
+    "symbol": "Ag",
+    "element": "Silver"
+  },
+  {
+    "atomic_number": 48,
+    "symbol": "Cd",
+    "element": "Cadmium"
+  },
+  {
+    "atomic_number": 49,
+    "symbol": "In",
+    "element": "Indium"
+  },
+  {
+    "atomic_number": 50,
+    "symbol": "Sn",
+    "element": "Tin"
+  },
+  {
+    "atomic_number": 51,
+    "symbol": "Sb",
+    "element": "Antimony"
+  },
+  {
+    "atomic_number": 52,
+    "symbol": "Te",
+    "element": "Tellurium"
+  },
+  {
+    "atomic_number": 53,
+    "symbol": "I",
+    "element": "Iodine"
+  },
+  {
+    "atomic_number": 54,
+    "symbol": "Xe",
+    "element": "Xenon"
+  },
+  {
+    "atomic_number": 55,
+    "symbol": "Cs",
+    "element": "Cesium"
+  },
+  {
+    "atomic_number": 56,
+    "symbol": "Ba",
+    "element": "Barium"
+  },
+  {
+    "atomic_number": 57,
+    "symbol": "La",
+    "element": "Lanthanum"
+  },
+  {
+    "atomic_number": 58,
+    "symbol": "Ce",
+    "element": "Cerium"
+  },
+  {
+    "atomic_number": 59,
+    "symbol": "Pr",
+    "element": "Praseodymium"
+  },
+  {
+    "atomic_number": 60,
+    "symbol": "Nd",
+    "element": "Neodymium"
+  },
+  {
+    "atomic_number": 61,
+    "symbol": "Pm",
+    "element": "Promethium"
+  },
+  {
+    "atomic_number": 62,
+    "symbol": "Sm",
+    "element": "Samarium"
+  },
+  {
+    "atomic_number": 63,
+    "symbol": "Eu",
+    "element": "Europium"
+  },
+  {
+    "atomic_number": 64,
+    "symbol": "Gd",
+    "element": "Gadolinium"
+  },
+  {
+    "atomic_number": 65,
+    "symbol": "Tb",
+    "element": "Terbium"
+  },
+  {
+    "atomic_number": 66,
+    "symbol": "Dy",
+    "element": "Dysprosium"
+  },
+  {
+    "atomic_number": 67,
+    "symbol": "Ho",
+    "element": "Holmium"
+  },
+  {
+    "atomic_number": 68,
+    "symbol": "Er",
+    "element": "Erbium"
+  },
+  {
+    "atomic_number": 69,
+    "symbol": "Tm",
+    "element": "Thulium"
+  },
+  {
+    "atomic_number": 70,
+    "symbol": "Yb",
+    "element": "Ytterbium"
+  },
+  {
+    "atomic_number": 71,
+    "symbol": "Lu",
+    "element": "Lutetium"
+  },
+  {
+    "atomic_number": 72,
+    "symbol": "Hf",
+    "element": "Hafnium"
+  },
+  {
+    "atomic_number": 73,
+    "symbol": "Ta",
+    "element": "Tantalum"
+  },
+  {
+    "atomic_number": 74,
+    "symbol": "W",
+    "element": "Tungsten"
+  },
+  {
+    "atomic_number": 75,
+    "symbol": "Re",
+    "element": "Rhenium"
+  },
+  {
+    "atomic_number": 76,
+    "symbol": "Os",
+    "element": "Osmium"
+  },
+  {
+    "atomic_number": 77,
+    "symbol": "Ir",
+    "element": "Iridium"
+  },
+  {
+    "atomic_number": 78,
+    "symbol": "Pt",
+    "element": "Platinum"
+  },
+  {
+    "atomic_number": 79,
+    "symbol": "Au",
+    "element": "Gold"
+  },
+  {
+    "atomic_number": 80,
+    "symbol": "Hg",
+    "element": "Mercury"
+  },
+  {
+    "atomic_number": 81,
+    "symbol": "Tl",
+    "element": "Thallium"
+  },
+  {
+    "atomic_number": 82,
+    "symbol": "Pb",
+    "element": "Lead"
+  },
+  {
+    "atomic_number": 83,
+    "symbol": "Bi",
+    "element": "Bismuth"
+  },
+  {
+    "atomic_number": 84,
+    "symbol": "Po",
+    "element": "Polonium"
+  },
+  {
+    "atomic_number": 85,
+    "symbol": "At",
+    "element": "Astatine"
+  },
+  {
+    "atomic_number": 86,
+    "symbol": "Rn",
+    "element": "Radon"
+  },
+  {
+    "atomic_number": 87,
+    "symbol": "Fr",
+    "element": "Francium"
+  },
+  {
+    "atomic_number": 88,
+    "symbol": "Ra",
+    "element": "Radium"
+  },
+  {
+    "atomic_number": 89,
+    "symbol": "Ac",
+    "element": "Actinium"
+  },
+  {
+    "atomic_number": 90,
+    "symbol": "Th",
+    "element": "Thorium"
+  },
+  {
+    "atomic_number": 91,
+    "symbol": "Pa",
+    "element": "Protactinium"
+  },
+  {
+    "atomic_number": 92,
+    "symbol": "U",
+    "element": "Uranium"
+  },
+  {
+    "atomic_number": 93,
+    "symbol": "Np",
+    "element": "Neptunium"
+  },
+  {
+    "atomic_number": 94,
+    "symbol": "Pu",
+    "element": "Plutonium"
+  },
+  {
+    "atomic_number": 95,
+    "symbol": "Am",
+    "element": "Americium"
+  },
+  {
+    "atomic_number": 96,
+    "symbol": "Cm",
+    "element": "Curium"
+  },
+  {
+    "atomic_number": 97,
+    "symbol": "Bk",
+    "element": "Berkelium"
+  },
+  {
+    "atomic_number": 98,
+    "symbol": "Cf",
+    "element": "Californium"
+  },
+  {
+    "atomic_number": 99,
+    "symbol": "Es",
+    "element": "Einsteinium"
+  },
+  {
+    "atomic_number": 100,
+    "symbol": "Fm",
+    "element": "Fermium"
+  },
+  {
+    "atomic_number": 101,
+    "symbol": "Md",
+    "element": "Mendelevium"
+  },
+  {
+    "atomic_number": 102,
+    "symbol": "No",
+    "element": "Nobelium"
+  },
+  {
+    "atomic_number": 103,
+    "symbol": "Lr",
+    "element": "Lawrencium"
+  },
+  {
+    "atomic_number": 104,
+    "symbol": "Rf",
+    "element": "Rutherfordium"
+  },
+  {
+    "atomic_number": 105,
+    "symbol": "Db",
+    "element": "Dubnium"
+  },
+  {
+    "atomic_number": 106,
+    "symbol": "Sg",
+    "element": "Seaborgium"
+  },
+  {
+    "atomic_number": 107,
+    "symbol": "Bh",
+    "element": "Bohrium"
+  },
+  {
+    "atomic_number": 108,
+    "symbol": "Hs",
+    "element": "Hassium"
+  },
+  {
+    "atomic_number": 109,
+    "symbol": "Mt",
+    "element": "Meitnerium"
+  },
+  {
+    "atomic_number": 110,
+    "symbol": "Ds",
+    "element": "Darmstadtium"
+  },
+  {
+    "atomic_number": 111,
+    "symbol": "Rg",
+    "element": "Roentgenium"
+  },
+  {
+    "atomic_number": 112,
+    "symbol": "Cn",
+    "element": "Copernicium"
+  },
+  {
+    "atomic_number": 113,
+    "symbol": "Nh",
+    "element": "Nihonium"
+  },
+  {
+    "atomic_number": 114,
+    "symbol": "Fl",
+    "element": "Flerovium"
+  },
+  {
+    "atomic_number": 115,
+    "symbol": "Mc",
+    "element": "Moscovium"
+  },
+  {
+    "atomic_number": 116,
+    "symbol": "Lv",
+    "element": "Livermorium"
+  },
+  {
+    "atomic_number": 117,
+    "symbol": "Ts",
+    "element": "Tennessine"
+  },
+  {
+    "atomic_number": 118,
+    "symbol": "Og",
+    "element": "Oganesson"
+  }
+]
